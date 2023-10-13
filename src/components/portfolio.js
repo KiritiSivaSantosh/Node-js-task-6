@@ -32,7 +32,7 @@ function Portfolio() {
         </div>
         <div className="project">
           <h3>Project 2</h3>
-          <p>Bootsrap Projects</p><hr/>
+          <p>Bootsrap & Javascript Projects</p><hr/>
           <p>GitHub Repository Link  - <a href='https://github.com/KiritiSivaSantosh/Mern-task-2'>Repository_Link</a></p>
           <p>Deplyment Link  - <a href='https://kiritisivasantosh.github.io/Mern-task-2/'>Deplyment_Link</a></p>
         </div>
